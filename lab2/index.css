@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: darkred;
+}
+
+body {
+    background-color: #373f14;
+    text-align: center;
+}
+h1{
+    font-size: 25px;
+    color: blanchedalmond;
+}
+main {
+    padding: 10px;
+}
+section, article {
+    background-color: chartreuse;
+}
+footer {
+    display: inline;
+    text-decoration: none;
+    list-style: none;
+}
